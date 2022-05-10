@@ -9,7 +9,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Developer and Reverser <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Developer and Reverser (and paster ofcourse but don't tell anyone) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I’m learning multiple languages at the same time, but in the meantime I also reverse some dumbasses that paste.
 - 🌱 Always looking for pasters.
