@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
-<a href="https://discord.coom/" target="_blank"><img src="https://cdn.discordapp.com/attachments/911325397717770250/973504914993086484/unknown.png" alt="Discord: BomMelding#6969" height="41" width="174"></a>
+<a href="https://discord.coom/" target="_blank"><img src="https://cdn.discordapp.com/attachments/911325397717770250/973504914993086484/unknown.png" alt="Discord: BomMelding#6969" height="50" width="50"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
