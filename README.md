@@ -16,10 +16,10 @@
 
 I am a Developer and Reverser <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+- 🔭 I’m learning multiple languages at the same time, but in the meantime I also release some dumbasses that paste.
+- 🌱 Always looking for pasters.
+- ⚡ In my free time I reverse and try to learn more about coding.
+- 📫 How to reach me: &nbsp; BomMelding#6969
 
 ---
 
