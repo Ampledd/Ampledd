@@ -1,9 +1,9 @@
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/921292233687326750/973504140091203604/mitai-salvaje.gif" width="100"/></p>
+<p align="center"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Ay Fella's <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
@@ -11,7 +11,7 @@
 
 I am a Developer and Reverser <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m learning multiple languages at the same time, but in the meantime I also release some dumbasses that paste.
+- 🔭 I’m learning multiple languages at the same time, but in the meantime I also reverse some dumbasses that paste.
 - 🌱 Always looking for pasters.
 - ⚡ In my free time I reverse and try to learn more about coding.
 - 📫 Discord: &nbsp;BomMelding#6969
