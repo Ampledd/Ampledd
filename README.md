@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/></p>
 <p align="center">
-<a href="https://discord.gg/g6srCnvxFz"><img src="https://cdn.discordapp.com/attachments/911325397717770250/973504914993086484/unknown.png" alt="Discord"> width="100"</a>
+<a href="https://discord.gg/g6srCnvxFz"><img src="https://cdn.discordapp.com/attachments/911325397717770250/973504914993086484/unknown.png" width="100" alt="Discord"></a>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
