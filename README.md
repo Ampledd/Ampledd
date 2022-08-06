@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://discord.gg/g6srCnvxFz"><img src="https://cdn.discordapp.com/attachments/911325397717770250/973504914993086484/unknown.png" width="100" alt="Discord"></a>
 </p>
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/994234877568368770.png"/>
+<img height="80px" src="https://discord.c99.nl/widget/theme-2/994234877568368770.png"/>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Ay Fella's <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
