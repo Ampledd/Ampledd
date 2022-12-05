@@ -16,7 +16,7 @@ I am a Developer and Reverser (and paster ofcourse but don't tell anyone) <img s
 - 🔭 I’m learning multiple languages at the same time, but in the meantime I also reverse some dumbasses that paste.
 - 🌱 Always looking for pasters.
 - ⚡ In my free time I reverse and try to learn more about coding.
-- 📫 Discord:&nbsp;BomMelding#6969
+- 📫 Discord:&nbsp;Bom#5336
 
 ---
 
