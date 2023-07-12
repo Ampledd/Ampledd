@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/></p>
 <p align="center">
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/1029070094728445973.png"/>
+<img height="80px" src="[https://discord.c99.nl/widget/theme-4/824722474364305428.png"/>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
@@ -16,7 +16,7 @@ I am a Developer and Reverser (and paster ofcourse but don't tell anyone) <img s
 - 🔭 I’m learning multiple languages at the same time, but in the meantime I also reverse some dumbasses that paste.
 - 🌱 Always looking for pasters.
 - ⚡ In my free time I reverse and try to learn more about coding.
-- 📫 Discord:&nbsp;Bom#2771
+- 📫 Discord:&nbsp;@bom1337
 
 ---
 
